@@ -5,8 +5,7 @@ body{
     background: url(../img/home_pic.jpeg)no-repeat;
     background-size: contain;
     color:#666;
-    position: relative;
-    height: 100%;
+    overflow-x: hidden;
 }
 
 header{
