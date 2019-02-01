@@ -89,7 +89,7 @@ section#about{
 #work article {
     display: inline-flex;
     align-items:center;
-    height: 80vh;
+    height: 70vh;
 }
 #work article div{
     display:inline-flex;
@@ -139,7 +139,6 @@ section#about{
     font-size: 16px;
     margin: 0;
     font-weight:800;
-    overflow: hidden;
 }
 section#gallery{
     height:120vh;
