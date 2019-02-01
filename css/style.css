@@ -46,7 +46,7 @@ nav ul li a {
 section{
     height: 100vh;
     width: 100vw;
-    padding-top: 60px;
+    padding-top: 65px;
     background-color: rgba(225,225,225,0.2);
     overflow: hidden;
 }
@@ -212,7 +212,7 @@ section#services ul li h6{
 
 blockquote{
     margin: 0;
-    height: 50vh;
+    height: 40vh;
     text-align: center;
     width: 100vw;
 }
