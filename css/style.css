@@ -143,19 +143,19 @@ section#gallery{
     height:120vh;
     overflow: initial;
 }
+.pic{
+    display:inline-flex;
+    flex-wrap: wrap;
+    height: 80vh;
+}
 .pic figure{
     margin: 0;
     padding: 0;
     display:inline-flex;
-    flex-wrap: wrap;
+    width: 25vw;
 }
 .pic figure img{
-    margin: 0;
-    padding: 0;
-    display:inline-flex;
-    flex-wrap: wrap;
-    width: 24.6vw;
-    height: 50vh;
+    width: 100%;
     object-fit: cover;
 }
 
