@@ -15,9 +15,7 @@ header{
     justify-content: space-around;
     padding-top: 20px;
     position: fixed;
-    left: 0;
-    right: 0;
-    top: 0;
+    width: 100%;
     flex-wrap: wrap;
 }
 
@@ -133,8 +131,6 @@ section#about{
     background-color: #1a7f83;
 }
 .icon span{
-    position: relative;
-    right:7%;
     font-size: 12px;
 }
 .icon span h5{
